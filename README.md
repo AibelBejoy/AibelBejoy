@@ -42,14 +42,20 @@ I learn best when I try out small real projects instead of just reading.
 
 ---
 
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aibelbejoy&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aibelbejoy&theme=darkhub)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aibelbejoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Languages Card (Better replacement)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aibelbejoy&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aibelbejoy&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👁️ Profile Views Counter
+![](https://komarev.com/ghpvc/?username=aibelbejoy&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
