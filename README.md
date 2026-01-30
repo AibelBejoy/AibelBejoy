@@ -37,22 +37,24 @@ I learn best when I try out small real projects instead of just reading.
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aibelbejoy&theme=dark&hide_border=false&cache_seconds=86400)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aibelbejoy&show_icons=true&theme=dark&cache_seconds=86400)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=aibelbejoy&theme=dark&hide_border=false&cache_seconds=86400)  
+![GitHub Streak](https://streak-stats.demolab.com?user=aibelbejoy&theme=dark&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aibelbejoy&layout=compact&theme=dark&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibelbejoy&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=aibelbejoy&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aibelbejoy&theme=darkhub&margin-w=10)
 
 ---
 
 ## 👁️ Profile Views
 
-![Views](https://komarev.com/ghpvc/?username=aibelbejoy&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=aibelbejoy&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
+
+
