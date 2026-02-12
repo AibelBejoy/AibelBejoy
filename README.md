@@ -1,60 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on  
-My B.Tech in Computer Science & Data Science.  
+# Hello 👋, I'm Aibel Bejoy.
+### FUTURE FULL STACK DEVELOPER
 
-🤝 I’m looking to collaborate on  
-Python mini projects and coding challenges.  
+## Contact Me
+<p><a href="https://www.linkedin.com/in/aibelbejoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/aibel_bejoy_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-🤲 I’m looking for help with  
-Learning advanced Python modules.  
+## Skills
 
-🌱 I’m currently learning  
-Python, Data Science basics, JavaScript, HTML, and problem solving.  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="c++" width="40" height="40"/>&nbsp;
+</p>
 
-💬 Ask me about  
-My college journey at Christ College of Engineering, Irinjalakuda.  
+## GitHub Stats
 
-⚡ Fun fact  
-I learn best when I try out small real projects instead of just reading.  
+<img src="https://github-readme-stats.vercel.app/api?username=AibelBejoy&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AibelBejoy&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aibel_bejoy_)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aibelbejoy@gmail.com)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AibelBejoy&theme=null" alt="GitHub Streak" />
 
----
+## GitHub Trophies
 
-# 💻 Tech Stack:
+<img src="https://github-profile-trophy.vercel.app/?username=AibelBejoy" alt="trophy" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+## GitHub Activity Graph
 
----
-
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aibelbejoy&show_icons=true&theme=dark&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aibelbejoy&theme=dark&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibelbejoy&layout=compact&theme=dark&cache_seconds=86400)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aibelbejoy&theme=darkhub&margin-w=10)
-
----
-
-## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=aibelbejoy&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AibelBejoy&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
