@@ -16,7 +16,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://www.coreldraw.com/static/cdgs/images/product-icons/corel/cdgs-small.png" alt="coreldraw" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+<img src="https://www.coreldraw.com/static/cdgs/images/product-icons/corel/cdgs-small.png" alt="coreldraw" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
